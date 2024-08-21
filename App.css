@@ -1,0 +1,51 @@
+﻿/*styling.css*/
+/*add font family, background image*/
+
+body {
+  color: #061317;
+  font-family: "Poppins", sans-serif;
+  background-image:url("./Images/google_maps.jpeg");
+  background-repeat: no-repeat;
+  background-size:100% 100% 100% 100%;
+}
+
+.fa-map-marker-alt,
+.fa-dot-circle {
+  color:rgb(10, 14, 15);
+}
+
+/*Jumbotron*/
+.jumbotron {
+  background-color: transparent;
+  margin: 0;
+  padding: 10px;
+}
+
+.jumbotron h1 {
+  letter-spacing: 2.5px;
+  font-size: 3.5em;
+  font-weight: 700;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  text-align: center;
+}
+
+/*map*/
+#googleMap {
+  width: 80%;
+  height: 400px;
+  margin: 10px auto;
+}
+
+/*output box*/
+#output {
+  text-align: center;
+  font-size: 2em;
+  margin: 20px auto;
+}
+
+#mode {
+  color: black;
+}
