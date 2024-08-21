@@ -12,10 +12,6 @@ This project is a web application that uses the Google Maps Distance Matrix API 
 - Responsive design for desktop and mobile
 - Interactive user interface
 
-## Live Demo
-
-Check out a live demo of the project at [Live Demo URL](http://example.com).
-
 ## Installation
 
 To run this project locally, follow these steps:
